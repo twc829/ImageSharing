@@ -1,6 +1,7 @@
 public class CloudAlbum{
 	String name;
 	String date;
+	boolean bool;
 	
 	public static void main(String[] args){
 		CloudAlbum ca = new CloudAlbum("Sissy_Express");
