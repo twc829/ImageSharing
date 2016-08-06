@@ -9,6 +9,6 @@ public class CloudAlbum{
 		this.name = name;
 	}
 	public CloudAlbum(){
-		
+		ystem.out.println("Hello");
 	}
 }
